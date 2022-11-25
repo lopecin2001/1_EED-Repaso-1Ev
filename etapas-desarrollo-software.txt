@@ -1,0 +1,7 @@
+1. Análisis: se especifican los requisitos funcionales y no funcionales del sistema
+2. Diseño: división del sistema en partes y determinación de las funciones de cada una
+3. Codificación: empleo de las tecnologías de programación seleccionadas
+4. Pruebas: detección de errores y depuración
+5. Documentación: generación de documentos sobre todas las etapas
+6. Explotación o despliegue: instalación y configuración en los equipos del cliente
+7. Mantenimiento: actualización y modificación de la aplicación en el futuro
